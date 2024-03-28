@@ -6,7 +6,6 @@
         "description": "Analyzes the audio of television episodes and detects introduction sequences.",
         "owner": "jumoog, AbandonedCart (forked from ConfusedPolarBear)",
         "category": "General",
-        "imageUrl": "https://raw.githubusercontent.com/jumoog/intro-skipper/master/images/logo.png",
         "versions": [
             {
                 "version": "0.1.16.4",
